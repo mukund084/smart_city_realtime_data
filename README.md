@@ -35,13 +35,6 @@ The project uses `docker-compose` for easy setup and deployment. Each component 
 - Docker
 - Docker Compose
 
-### Launching the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/smart_city_realtime_data.git
-
-
 ### Tutorial Reference
 
 This project follows the tutorial from the YouTube video [Smart City End to End Realtime Data Engineering Project | Get Hired as an AWS Data Engineer](https://www.youtube.com/watch?v=Vv_fvwF41_0) by CodeWithYu . The tutorial provided a foundational framework and guidance for building this real-time data pipeline.
